@@ -1,8 +1,8 @@
 pragma solidity ^0.4.23;
 /* 23/7/2018 being modified */
-// Donation Contract is coded using Solidity, to send donation amount to reciever.
+// Donation Contract is coded using Solidity, to send donation amount to receiver.
 // A contract owner can raise contributions as ether from public,
-// and then he can send reciver total amount for donation.
+// and then he can send receiver total amount for donation.
 // Notes: this contract is not fixed, so you should not use this contract in Ethereum mainnet.
 contract Donation {
 /* grobal variable */
